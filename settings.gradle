@@ -1,0 +1,2 @@
+rootProject.name = "CoinMarketCup"
+include ':app'
